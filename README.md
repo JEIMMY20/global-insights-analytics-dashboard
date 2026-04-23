@@ -16,5 +16,4 @@ Proyecto de Business Intelligence enfocado en análisis estratégico.
 Analizar indicadores empresariales y variables externas.
 
 ## Integrantes
-- Nombre 1
-- Nombre 2
+Jeimmy Lizeth Davila Maldonado
